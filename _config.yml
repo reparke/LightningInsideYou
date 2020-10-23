@@ -121,21 +121,24 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LIYMusic"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/LightningInsideYou"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/lightninginsideyou"
-    - label: "Spotify"
+    - label: " " # "Spotify"
       icon: "fab fa-fw fa-spotify"
       url: "https://open.spotify.com/artist/2fch4zw7EYLFfwuNQy9hr3"
-    - label: "YouTube"
+    - label: " " # "Apple Music"
+      icon: "fab fa-fw fa-apple"
+      url: "https://music.apple.com/us/artist/lightning-inside-you/304356987"
+    - label: " " # "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/user/lightninginsideyou/"
+    - label: " " # "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/LightningInsideYou"
+    - label: " " # "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/lightninginsideyou"
+    - label: " " # "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LIYMusic"
 
 
 # Reading Files
