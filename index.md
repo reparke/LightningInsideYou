@@ -63,7 +63,30 @@ header:
 #     url: "#test-link"
 #     btn_label: "Read More"
 #     btn_class: "btn--primary" -->
+feature_row:
+    - image_path: assets/images/agony_600x600.png
+      alt: "Agony of the Leave"
+      title: "Agony of the Leave"
+      excerpt: "Debut EP"
+      url: "http://google.com"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: assets/images/yeti_600x600.png
+      alt: "The Christmas Yeti"
+      title: "The Christmas Yeti"
+      excerpt: "Releasing Dec 1"
+      url: "http://google.com"
+      btn_label: "Read More"
+      btn_class: "btn--primary" 
 ---
+
+<!-- {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %} -->
+
+{% include feature_row %}
+
+
 {% comment %}
   {% include feature_row id="intro" type="center" %}
 
