@@ -68,15 +68,15 @@ feature_row:
       alt: "Agony of the Leave"
       title: "Agony of the Leave"
       excerpt: "Debut EP"
-      url: "http://google.com"
-      btn_label: "Read More"
+      url: "https://lightninginsideyou.bandcamp.com/album/agony-of-the-leave"
+      btn_label: "Listen"
       btn_class: "btn--primary"
     - image_path: assets/images/yeti_600x600.png
       alt: "The Christmas Yeti"
       title: "The Christmas Yeti"
-      excerpt: "Releasing Dec 1"
-      url: "http://google.com"
-      btn_label: "Read More"
+      excerpt: "Available Dec 1"
+      url: "https://instagram.com/lightninginsideyou"
+      btn_label: "Follow for updates"
       btn_class: "btn--primary" 
 ---
 
