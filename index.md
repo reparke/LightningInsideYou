@@ -1,27 +1,68 @@
 ---
-# permalink: /christmas_yeti/
 # header:
 #   overlay_image: /assets/images/wedding.jpg
 #   overlay_filter: rgba(0,0,0,0.3) # same as adding an opacity of 0.5 to a black background
 #   show_overlay_excerpt: false
 #   excerpt: ""
 
-layout: single
+layout: splash
 classes:
-  - wide
+  - landing
 
 # title: "Splash Page"
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0.5"
-  #overlay_image: /assets/images/yeti_600x600.png
-  # image: /assets/images/yeti_600x600.png
+  # overlay_color: "#000"
+  # overlay_filter: "0.5"
+  # overlay_image: /assets/images/wedding.jpg
+  image: /assets/images/wedding.jpg
   # actions:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  show_overlay_excerpt: true
-excerpt: "Live Christmas single now streaming"
+  show_overlay_excerpt: false
+# excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+# intro: 
+#   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+# <!-- feature_row:
+#   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#     alt: "placeholder image 1"
+#     title: "Placeholder 1"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+#     alt: "placeholder image 2"
+#     title: "Placeholder 2"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+#   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+#     title: "Placeholder 3"
+#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+# feature_row2:
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder Image Left Aligned"
+#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+# feature_row3:
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder Image Right Aligned"
+#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
+# feature_row4:
+#   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Placeholder Image Center Aligned"
+#     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+#     url: "#test-link"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary" -->
 feature_row:
     - image_path: assets/images/yeti_600x600.png
       alt: "The Christmas Yeti"
@@ -39,21 +80,22 @@ feature_row:
       btn_class: "btn--primary"
 
 ---
-![](/assets/images/yeti_600x600.png)
 
-![](christmas_yeti.assets/yeti_600x600.png)
-Listen to our new Christmas single <i>The Christmas Yeti</i>, recorded live.
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3005642738/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti">The Christmas Yeti by Lightning Inside You</a></iframe>
-<style type="text/css">
-    .music_links{ 
-    	font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    	Margin-left: 1em;
-    	}
-</style>
+<!-- {% include feature_row id="intro" type="center" %}
 
-<a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti?action=buy" rel="nofollow noopener noreferrer"><i class="fab fa-bandcamp" style="color:#1DA0C3"  aria-hidden="true"><span class="music_links" style="color:#1DA0C3">Buy Song</span></i></a>
+{% include feature_row %} -->
 
-<a href="https://open.spotify.com/track/5HxyCf3nCNH6WcjdG2Nz86" rel="nofollow noopener noreferrer"><i class="fab fa-spotify" style = "color: #1DD05E"  aria-hidden="true"><span class="music_links" style = "color: #1DD05E">Listen on Spotify</span></i></a>
+{% include feature_row %}
 
-<a href="https://music.apple.com/us/album/together-we-make-a-compass/304356966?i=304356997" rel="nofollow noopener noreferrer"><i class="fab fa-apple" style = "color: #F25A6E"  aria-hidden="true"><span class="music_links" style = "color: #F25A6E">Listen on Apple Music</span></i></a>
 
+{% comment %}
+  {% include feature_row id="intro" type="center" %}
+
+  {% include feature_row %}
+
+  {% include feature_row id="feature_row2" type="left" %}
+
+  {% include feature_row id="feature_row3" type="right" %}
+
+  {% include feature_row id="feature_row4" type="center" %}
+{% endcomment %}
