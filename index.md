@@ -49,6 +49,6 @@ Listen to our new Christmas single <i>The Christmas Yeti</i>, recorded live.
 
 <a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti?action=buy" rel="nofollow noopener noreferrer"><i class="fab fa-bandcamp" style="color:#1DA0C3"  aria-hidden="true"><span class="music_links" style="color:#1DA0C3">Buy Song</span></i></a>
 
-<a href="https://open.spotify.com/album/3UDOna0mHfN5ocfZKucGvl?si=XKF0c6G9Q3WsNNPOvXwRLw" rel="nofollow noopener noreferrer"><i class="fab fa-spotify" style = "color: #1DD05E"  aria-hidden="true"><span class="music_links" style = "color: #1DD05E">Listen on Spotify</span></i></a>
+<a href="https://open.spotify.com/track/0Qt33iZTgoBK3zwoMUE6xx" rel="nofollow noopener noreferrer"><i class="fab fa-spotify" style = "color: #1DD05E"  aria-hidden="true"><span class="music_links" style = "color: #1DD05E">Listen on Spotify</span></i></a>
 
 <a href="https://music.apple.com/us/album/the-christmas-yeti-single/1538880231" rel="nofollow noopener noreferrer"><i class="fab fa-apple" style = "color: #F25A6E"  aria-hidden="true"><span class="music_links" style = "color: #F25A6E">Listen on Apple Music</span></i></a>
