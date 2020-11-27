@@ -1,5 +1,5 @@
 ---
-permalink: /christmas_yeti/
+# permalink: /christmas_yeti/
 # header:
 #   overlay_image: /assets/images/wedding.jpg
 #   overlay_filter: rgba(0,0,0,0.3) # same as adding an opacity of 0.5 to a black background
@@ -15,11 +15,7 @@ header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
   #overlay_image: /assets/images/yeti_600x600.png
-  # image: /assets/images/yeti_600x600.png
-  # actions:
-  #   - label: "Download"
-  #     url: "https://github.com/mmistakes/minimal-mistakes/"
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+ 
   show_overlay_excerpt: true
 excerpt: "Live Christmas single now streaming"
 feature_row:
@@ -41,21 +37,18 @@ feature_row:
 ---
 ![](/assets/images/yeti_600x600.png)
 
-![](christmas_yeti.assets/yeti_600x600.png)
+<!-- ![](christmas_yeti.assets/yeti_600x600.png) -->
 Listen to our new Christmas single <i>The Christmas Yeti</i>, recorded live.
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=3005642738/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti">The Christmas Yeti by Lightning Inside You</a></iframe>
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3005642738/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti">The Christmas Yeti by Lightning Inside You</a></iframe>
-
 <style type="text/css">
     .music_links{ 
     	font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     	Margin-left: 1em;
     	}
 </style>
+
 <a href="https://lightninginsideyou.bandcamp.com/track/the-christmas-yeti?action=buy" rel="nofollow noopener noreferrer"><i class="fab fa-bandcamp" style="color:#1DA0C3"  aria-hidden="true"><span class="music_links" style="color:#1DA0C3">Buy Song</span></i></a>
 
-<a href="https://open.spotify.com/track/5HxyCf3nCNH6WcjdG2Nz86" rel="nofollow noopener noreferrer"><i class="fab fa-spotify" style = "color: #1DD05E"  aria-hidden="true"><span class="music_links" style = "color: #1DD05E">Listen on Spotify</span></i></a>
+<a href="https://open.spotify.com/album/3UDOna0mHfN5ocfZKucGvl?si=XKF0c6G9Q3WsNNPOvXwRLw" rel="nofollow noopener noreferrer"><i class="fab fa-spotify" style = "color: #1DD05E"  aria-hidden="true"><span class="music_links" style = "color: #1DD05E">Listen on Spotify</span></i></a>
 
-<a href="https://music.apple.com/us/album/together-we-make-a-compass/304356966?i=304356997" rel="nofollow noopener noreferrer"><i class="fab fa-apple" style = "color: #F25A6E"  aria-hidden="true"><span class="music_links" style = "color: #F25A6E">Listen on Apple Music</span></i></a>
-
+<a href="https://music.apple.com/us/album/the-christmas-yeti-single/1538880231" rel="nofollow noopener noreferrer"><i class="fab fa-apple" style = "color: #F25A6E"  aria-hidden="true"><span class="music_links" style = "color: #F25A6E">Listen on Apple Music</span></i></a>
