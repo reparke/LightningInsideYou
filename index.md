@@ -67,7 +67,7 @@ feature_row:
     - image_path: assets/images/yeti_600x600.png
       alt: "The Christmas Yeti"
       title: "The Christmas Yeti"
-      excerpt: "New single"
+      excerpt: "New Single"
       url: "http://lightninginsideyou.com/music/christmas_yeti"
       btn_label: "Listen"
       btn_class: "btn--primary" 
