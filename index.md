@@ -7,7 +7,7 @@
 
 layout: splash
 classes:
-  - landing
+  - landing 
 
 # title: "Splash Page"
 header:
